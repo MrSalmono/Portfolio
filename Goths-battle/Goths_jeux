@@ -1,0 +1,29 @@
+petit jeu simple on est un ghots lors d'une bataille où ils ont perdu face au romains au 3 ème siècle AD 
+donc on est seul face à eux et on doit survivre le plus longtemps possible 
+au fur et a mesure que le temps avance le nombre de romain augmente et ça devient compliqué (différent types d'ennemies)
+
+chaque romain rapporte des points plus on en tues rapidement plus les point gagner augmentent (système de multiplicateur)
+
+base 
+1 PJ => le goths avec une épée et un bouclier (qui s'use au cours du temps ?)
+2 type d'ennemies => romain à épée (dommage au cac) et romain avec javelots (dommage à distance (casse les boucliers ?)
+
+plus 
+
+on pensera à rajouter plus d'ennemies si on a le temps :
+cavalier légé => il traverse la map rapidement on peut rien faire juste les éviter
+item à ramasser qui donne des bonus d'invincibiliter et possiblement faire des combos d'items à voir
+possibilité de rammasser les javelots romains.
+
+
+ce que l'on peut faire au niveau du rythme du jeu :
+les romains cac prennent un coup pour mourir jusqu'a ce que les pilums arrivent et à ce moment il prennent deux coup (rajout d'un bouclier au skin pour le visualiser)
+
+les cac => ils se dirigent vers le joueur et inflige des dégâts au cac si ils touchent le joueur
+
+les pilums => ils se déplacent de manière aléatoire sur la map et tire devant eux à intervalle réguliers
+
+
+
+CONTEXTE :
+La bataille de Naissus se déroula en 268 ou 269 entre les armées goths et les légions romaines menées par l'empereur Gallien et les futurs empereurs Claude le commandant en chef et Aurélien le chef de la cavalerie. 
